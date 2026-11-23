@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hallucinated-citation-checker"
+version = "0.1.0"
+description = "Check BibTeX entries against Crossref, OpenAlex, arXiv, Open Library and doi.org to catch fabricated or garbled references."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+keywords = ["bibtex", "citations", "reference-checker", "hallucination", "crossref"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Text Processing :: Markup :: LaTeX",
+]
+dependencies = []
+
+[project.scripts]
+citecheck = "hallucinated_citation_checker.cli:main"
+
+[tool.setuptools]
+packages = ["hallucinated_citation_checker"]

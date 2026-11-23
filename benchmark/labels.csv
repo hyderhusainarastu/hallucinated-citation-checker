@@ -1,0 +1,47 @@
+key,truth,category
+shannon1948,real,journal article
+turing1950,real,journal article
+watson1953,real,journal article
+kahneman1979,real,journal article
+lecun2015,real,journal article
+hochreiter1997,real,journal article
+nash1950,real,journal article
+breiman2001,real,journal article
+tibshirani1996,real,journal article (no DOI)
+granovetter1973,real,journal article
+hardin1968,real,journal article
+dijkstra1959,real,journal article
+efron1979,real,journal article
+einstein1905,real,old non-English journal article (no DOI)
+vaswani2017,real,arXiv preprint
+kingma2014,real,arXiv preprint
+devlin2018,real,arXiv preprint
+he2015,real,arXiv preprint
+goodfellow2014,real,arXiv preprint
+brown2020,real,arXiv preprint
+krizhevsky2012,real,conference paper (no DOI)
+mikolov2013,real,conference paper (no DOI)
+pennington2014,real,conference paper (no DOI)
+kr1988,real,book (ISBN)
+sutton2018,real,book (ISBN)
+goodfellow2016,real,book (ISBN)
+cormen2009,real,book (ISBN)
+kuhn1962,real,book (no ISBN)
+rumelhart1986,real,book chapter
+bourdieu1986,real,book chapter
+invented1,invented,invented reference
+invented2,invented,invented reference
+invented3,invented,invented reference
+invented4,invented,invented reference
+invented5,invented,invented reference
+invented6,invented,invented reference
+invented7,invented,invented reference
+invented8,invented,invented reference
+c_shannon_year,corrupted,"real work, corrupted year"
+c_turing_author,corrupted,"real work, corrupted author"
+c_watson_title,corrupted,"real work, corrupted title"
+c_breiman_year,corrupted,"real work, corrupted year"
+c_vaswani_author,corrupted,"real work, corrupted author"
+c_krizhevsky_year,corrupted,"real work, corrupted year"
+c_nash_doi,corrupted,"real work, corrupted DOI"
+c_sutton_author,corrupted,"real work, corrupted author"

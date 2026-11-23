@@ -1,0 +1,6 @@
+key,entry_type,verdict,rung,source,matched_id,title_similarity,bib_title,found_title,bib_year,found_year,detail,note
+shannon1948,article,VERIFIED,doi,crossref,10.1002/j.1538-7305.1948.tb01338.x,1.000,A Mathematical Theory of Communication,A Mathematical Theory of Communication,1948,1948,,
+turing1950,article,VERIFIED,doi,crossref,10.1093/mind/lix.236.433,0.889,Computing Machinery and Intelligence,I.—COMPUTING MACHINERY AND INTELLIGENCE,1950,1950,,
+vaswani2017,misc,VERIFIED,arxiv,arxiv,1706.03762,1.000,Attention Is All You Need,Attention Is All You Need,2017,2017,,
+invented2021a,article,NOT_FOUND,search,,,,Quantum Gradient Folding in Sparse Lattice Transformers,,2021,,doi 10.9999/jiml.2021.0417 did not resolve,"Not found in the sources checked. This needs manual review and is NOT proof of fabrication: books, chapters, old and non-English works are often missing."
+invented2022b,inproceedings,NOT_FOUND,search,,,,Semantic Hedgehog Pooling for Low-Resource Marsh Ecology,,2022,,,"Not found in the sources checked. This needs manual review and is NOT proof of fabrication: books, chapters, old and non-English works are often missing."

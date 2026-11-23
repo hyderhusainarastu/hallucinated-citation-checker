@@ -1,0 +1,49 @@
+key,entry_type,verdict,rung,source,matched_id,title_similarity,bib_title,found_title,bib_year,found_year,detail,note
+shannon1948,article,VERIFIED,doi,crossref,10.1002/j.1538-7305.1948.tb01338.x,1.000,A Mathematical Theory of Communication,A Mathematical Theory of Communication,1948,1948,,
+turing1950,article,VERIFIED,doi,crossref,10.1093/mind/lix.236.433,0.889,Computing Machinery and Intelligence,I.—COMPUTING MACHINERY AND INTELLIGENCE,1950,1950,,
+watson1953,article,VERIFIED,doi,crossref,10.1038/171737a0,1.000,Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid,Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid,1953,1953,,
+kahneman1979,article,VERIFIED,doi,crossref,10.2307/1914185,1.000,Prospect Theory: An Analysis of Decision under Risk,Prospect Theory: An Analysis of Decision under Risk,1979,1979,,
+lecun2015,article,VERIFIED,doi,crossref,10.1038/nature14539,1.000,Deep learning,Deep learning,2015,2015,,
+hochreiter1997,article,VERIFIED,doi,crossref,10.1162/neco.1997.9.8.1735,1.000,Long Short-Term Memory,Long Short-Term Memory,1997,1997,,
+nash1950,article,VERIFIED,doi,crossref,10.1073/pnas.36.1.48,0.923,Equilibrium points in n-person games,"Equilibrium points in
+                    <i>n</i>
+                    -person games",1950,1950,,
+breiman2001,article,VERIFIED,doi,crossref,10.1023/a:1010933404324,1.000,Random Forests,Random Forests,2001,2001,,
+tibshirani1996,article,VERIFIED,search,crossref,10.1111/j.2517-6161.1996.tb02080.x,1.000,Regression Shrinkage and Selection via the Lasso,Regression Shrinkage and Selection Via the Lasso,1996,1996,,
+granovetter1973,article,VERIFIED,doi,crossref,10.1086/225469,1.000,The Strength of Weak Ties,The Strength of Weak Ties,1973,1973,,
+hardin1968,article,VERIFIED,doi,crossref,10.1126/science.162.3859.1243,1.000,The Tragedy of the Commons,The Tragedy of the Commons,1968,1968,,
+dijkstra1959,article,VERIFIED,doi,crossref,10.1007/bf01386390,1.000,A note on two problems in connexion with graphs,A note on two problems in connexion with graphs,1959,1959,,
+efron1979,article,VERIFIED,doi,crossref,10.1214/aos/1176344552,1.000,Bootstrap Methods: Another Look at the Jackknife,Bootstrap Methods: Another Look at the Jackknife,1979,1979,,
+einstein1905,article,VERIFIED,search,crossref,10.1002/andp.19053221004,1.000,Zur Elektrodynamik bewegter Korper,Zur Elektrodynamik bewegter Körper,1905,1905,,
+vaswani2017,misc,VERIFIED,arxiv,arxiv,1706.03762,1.000,Attention Is All You Need,Attention Is All You Need,2017,2017,,
+kingma2014,misc,VERIFIED,arxiv,arxiv,1412.6980,1.000,Adam: A Method for Stochastic Optimization,Adam: A Method for Stochastic Optimization,2014,2014,,
+devlin2018,misc,VERIFIED,arxiv,arxiv,1810.04805,1.000,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,2018,2018,,
+he2015,misc,VERIFIED,arxiv,arxiv,1512.03385,1.000,Deep Residual Learning for Image Recognition,Deep Residual Learning for Image Recognition,2015,2015,,
+goodfellow2014,misc,VERIFIED,arxiv,arxiv,1406.2661,1.000,Generative Adversarial Networks,Generative Adversarial Networks,2014,2014,,
+brown2020,misc,VERIFIED,arxiv,arxiv,2005.14165,1.000,Language Models are Few-Shot Learners,Language Models are Few-Shot Learners,2020,2020,,
+krizhevsky2012,inproceedings,VERIFIED,search,openalex,https://openalex.org/W7237396817,1.000,ImageNet Classification with Deep Convolutional Neural Networks,ImageNet Classification with Deep Convolutional Neural Networks,2012,2012,,
+mikolov2013,inproceedings,VERIFIED,search,openalex,https://openalex.org/W2153579005,1.000,Distributed Representations of Words and Phrases and their Compositionality,Distributed Representations of Words and Phrases and their Compositionality,2013,2013,,
+pennington2014,inproceedings,VERIFIED,search,crossref,10.3115/v1/d14-1162,1.000,GloVe: Global Vectors for Word Representation,Glove: Global Vectors for Word Representation,2014,2014,,
+kr1988,book,VERIFIED,isbn,openlibrary,ISBN:9780131103627,1.000,The C Programming Language,The C Programming Language,1988,1988,,
+sutton2018,book,METADATA_MISMATCH,isbn,openlibrary,ISBN:9780262039246,0.667,Reinforcement Learning: An Introduction,Reinforcement Learning,2018,2018,title: bib='Reinforcement Learning: An Introduction' vs openlibrary='Reinforcement Learning' (similarity 0.67),
+goodfellow2016,book,VERIFIED,isbn,openlibrary,ISBN:9780262035613,1.000,Deep Learning,Deep Learning,2016,2017,,
+cormen2009,book,VERIFIED,isbn,openlibrary,ISBN:9780262033848,1.000,Introduction to Algorithms,Introduction to Algorithms,2009,2009,,
+kuhn1962,book,VERIFIED,search,openalex,https://openalex.org/W2753533763,1.000,The Structure of Scientific Revolutions,The Structure of Scientific Revolutions,1962,1963,,
+rumelhart1986,incollection,VERIFIED,search,crossref,10.21236/ada164453,1.000,Learning Internal Representations by Error Propagation,Learning Internal Representations by Error Propagation,1986,1985,,
+bourdieu1986,incollection,METADATA_MISMATCH,search,crossref,10.4324/9780429494338-6,1.000,The Forms of Capital,The Forms of Capital,1986,2018,year: bib=1986 vs crossref=2018,
+invented1,article,NOT_FOUND,search,,,,Quantum Gradient Folding in Sparse Lattice Transformers,,2021,,doi 10.9999/jiml.2021.0417 did not resolve,"Not found in the sources checked. This needs manual review and is NOT proof of fabrication: books, chapters, old and non-English works are often missing."
+invented2,article,NOT_FOUND,search,,,,Semantic Hedgehog Pooling for Low-Resource Marsh Ecology,,2022,,,"Not found in the sources checked. This needs manual review and is NOT proof of fabrication: books, chapters, old and non-English works are often missing."
+invented3,article,NOT_FOUND,search,,,,A Unified Theory of Recursive Tea-Leaf Embeddings,,2019,,,"Not found in the sources checked. This needs manual review and is NOT proof of fabrication: books, chapters, old and non-English works are often missing."
+invented4,article,NOT_FOUND,search,,,,Causal Discovery of Lunar Tides in Municipal Budgets,,2020,,doi 10.9999/cdlt.2020.118 did not resolve,"Not found in the sources checked. This needs manual review and is NOT proof of fabrication: books, chapters, old and non-English works are often missing."
+invented5,article,NOT_FOUND,search,,,,Distributional Shift Considered Mildly Amusing,,2023,,,"Not found in the sources checked. This needs manual review and is NOT proof of fabrication: books, chapters, old and non-English works are often missing."
+invented6,article,NOT_FOUND,search,,,,Zero-Shot Cartography of Imaginary Archipelagos,,2018,,doi 10.9999/zsc.2018.77 did not resolve,"Not found in the sources checked. This needs manual review and is NOT proof of fabrication: books, chapters, old and non-English works are often missing."
+invented7,article,NOT_FOUND,search,,,,On the Convergence of Velvet Optimizers,,2022,,,"Not found in the sources checked. This needs manual review and is NOT proof of fabrication: books, chapters, old and non-English works are often missing."
+invented8,article,NOT_FOUND,search,,,,Hierarchical Moss Networks for Citation Prediction,,2024,,,"Not found in the sources checked. This needs manual review and is NOT proof of fabrication: books, chapters, old and non-English works are often missing."
+c_shannon_year,article,METADATA_MISMATCH,doi,crossref,10.1002/j.1538-7305.1948.tb01338.x,1.000,A Mathematical Theory of Communication,A Mathematical Theory of Communication,1962,1948,year: bib=1962 vs crossref=1948,
+c_turing_author,article,METADATA_MISMATCH,doi,crossref,10.1093/mind/lix.236.433,0.889,Computing Machinery and Intelligence,I.—COMPUTING MACHINERY AND INTELLIGENCE,1950,1950,"authors: bib='Hopper, Grace M.' vs crossref='A. M. TURING'",
+c_watson_title,article,METADATA_MISMATCH,doi,crossref,10.1038/171737a0,0.133,Structural Foundations of Ribonucleic Folding Dynamics,Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid,1953,1953,title: bib='Structural Foundations of Ribonucleic Folding Dynamics' vs crossref='Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid' (similarity 0.13),
+c_breiman_year,article,METADATA_MISMATCH,doi,crossref,10.1023/a:1010933404324,1.000,Random Forests,Random Forests,2009,2001,year: bib=2009 vs crossref=2001,
+c_vaswani_author,misc,METADATA_MISMATCH,arxiv,arxiv,1706.03762,1.000,Attention Is All You Need,Attention Is All You Need,2017,2017,"authors: bib='Smithers, Jonathan and Doe, Janet' vs arxiv='Ashish Vaswani; Noam Shazeer; Niki Parmar; Jakob Uszkoreit; Llion Jones; Aidan N. Gomez; Lukasz Kaiser; Illia Polosukhin'",
+c_krizhevsky_year,inproceedings,METADATA_MISMATCH,search,crossref,10.1145/3065386,1.000,ImageNet Classification with Deep Convolutional Neural Networks,ImageNet classification with deep convolutional neural networks,2019,2017,year: bib=2019 vs crossref=2017,
+c_nash_doi,article,METADATA_MISMATCH,search,openalex,https://openalex.org/W2067050450,1.000,Equilibrium points in n-person games,Equilibrium points in n -person games,1950,1950,"doi 10.1073/pnas.99.9.9999 did not resolve; a record with matching title, authors and year exists",
+c_sutton_author,book,METADATA_MISMATCH,isbn,openlibrary,ISBN:9780262039246,0.667,Reinforcement Learning: An Introduction,Reinforcement Learning,2018,2018,"title: bib='Reinforcement Learning: An Introduction' vs openlibrary='Reinforcement Learning' (similarity 0.67); authors: bib='Hargrove, Winston and Delacroix, Marguerite' vs openlibrary='Richard S. Sutton'",
